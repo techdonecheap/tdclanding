@@ -10,33 +10,31 @@ const PricingMain = () => {
           <div className="flex w-9/12 bg-white h-auto rounded-xl">
             <div className="p-8 w-3/5">
               <h1 className="text-3xl font-bold">
-                Unlimited access to all<br></br>products.
+                The Oblitterate All package<br></br>products.
               </h1>
               <p className="mt-5 text-sm opacity-50 font-semibold">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text ever since the 1500s, when an unknown printer took a galley
-                of type and scrambled it to make a type specimen book.
+                Full fuck shit up mode package, no need for questions, 
+                every fucking thing that has a heart beat.... wont.
               </p>
               <div className="mt-5">
                 <h2 className="font-bold text-xl">What's Included</h2>
                 <div className="mt-5 grid grid-cols-2 gap-3">
-                  <h3>Feature One</h3>
-                  <h3>Feature Two</h3>
-                  <h3>Feature Three</h3>
-                  <h3>Feature Four</h3>
+                  <h3>Death</h3>
+                  <h3>Destruction</h3>
+                  <h3>Scorched Earth</h3>
+                  <h3>Naked Bodies</h3>
                 </div>
               </div>
             </div>
             <div className="flex flex-col items-center justify-center w-2/5 p-8 bg-pink rounded-r-lg">
               <h2 className="text-xl text-white text-bold">
-                All updates for one year
+                All maintenance for one year
               </h2>
-              <h1 className="text-7xl text-white font-bold mt-2">$149</h1>
+              <h1 className="text-7xl text-white font-bold mt-2">$1,000,000</h1>
               <div className="mt-5">
                 <Button
                   colorClass="bg-white"
-                  title="Request Access"
+                  title="Request Destruction"
                   onClick={() => {}}
                 ></Button>
               </div>

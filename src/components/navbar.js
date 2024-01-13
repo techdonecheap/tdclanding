@@ -9,25 +9,25 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           <div className="w-full justify-between flex items-center">
             <a className="text-white flex-shrink-0 font-poppins" href="/">
-              Circle
+              OneShotPredatorMgmt
             </a>
             <div className="hidden md:block">
               <div className="ml-10 flex items-baseline space-x-4">
                 <Link
                   className="text-white opacity-50 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-poppins"
-                  to="/about"
+                  to="/careers"
                 >
                   About
                 </Link>
                 <Link
                   className="text-white opacity-50 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-poppins"
-                  to="/blog"
+                  to="/careers"
                 >
                   Blog
                 </Link>
                 <Link
                   className="text-white opacity-50 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-poppins"
-                  to="/pricing"
+                  to="/careers"
                 >
                   Pricing
                 </Link>
