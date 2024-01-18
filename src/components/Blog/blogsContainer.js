@@ -14,38 +14,38 @@ const BlogsContainer = () => {
     },
     {
       img:
-        "https://images.unsplash.com/photo-1590650516494-0c8e4a4dd67e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHdvcmtpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-      heading: "The Quick Brown Fox Jumped over the lazy dog.",
+        "https://i.imgur.com/9c2MRAul.png",
+      heading: "Adapting to Every Challenge Nature Offers.",
       para:
-        " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      " Nature's unpredictability requires a predator management service that's as adaptable as the wildlife it handles. At OSPM, we pride ourselves on our ability to navigate and operate effectively in any environment – be it dense woodlands, rolling hills, or open fields. Our adaptability is not just a skill; it's our promise to protect your land, no matter its terrain. Our team's deep understanding of animal behavior, coupled with state-of-the-art technology, enables us to provide tailored solutions for every situation. Whether it's a cunning coyote or a stealthy bobcat, OSPM is equipped to handle the challenge, ensuring the safety of your farm and maintaining the natural balance.",
     },
     {
       img:
-        "https://images.unsplash.com/photo-1553877522-43269d4ea984?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHdvcmtpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-      heading: "The Quick Brown Fox Jumped over the lazy dog.",
+        "https://i.imgur.com/jcbic7Ol.png",
+      heading: "The Silent Guardians of Your Farm.",
       para:
-        " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      " In the stillness of dusk, when shadows grow long and the farm settles for the night, our team at OSPM takes action. We are the silent guardians, ensuring that the peace of your fields and the safety of your livestock are undisturbed. Our approach to predator management is not just about removal; it's about restoring balance and tranquility to your land.  OSPM's unique blend of military precision and hunting expertise makes us unparalleled in the field of predator control. With every mission, we bring a commitment to discretion and efficiency, ensuring that your farm remains a safe haven for its rightful inhabitants. Trust in OSPM to be your silent, vigilant protectors.",
     },
     {
       img:
-        "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTJ8fHdvcmtpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-      heading: "The Quick Brown Fox Jumped over the lazy dog.",
+        "https://i.imgur.com/5dRCCHql.png",
+      heading: "Dawn of Safety: OSPM's Early Morning Vigilance.",
       para:
-        " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      " As the first light of dawn breaks over the horizon, OSPM's team is already at work, ensuring that your farm awakens to safety and serenity. Our early morning patrols are a cornerstone of our commitment to protecting your livelihood. In these quiet hours, our vigilance is heightened, preempting any threats that nocturnal predators might pose.  This proactive approach is what sets OSPM apart. We believe in not just responding to threats, but in preventing them. As the farm stirs to life, our clients can rest assured that their fields and livestock have been guarded throughout the night, ensuring a peaceful start to the day.",
     },
     {
       img:
-        "https://images.unsplash.com/photo-1507207611509-ec012433ff52?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTh8fHdvcmtpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-      heading: "The Quick Brown Fox Jumped over the lazy dog.",
+        "https://i.imgur.com/8wZLW4Vl.png",
+      heading: "Innovative Technology in Predator Management.",
       para:
-        " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      " At OSPM, we harness the power of technology to stay ahead in predator management. Our use of advanced tools, like high-tech drones, exemplifies our innovative approach. These drones enable us to survey large areas of land quickly and efficiently, identifying potential predator threats before they become a problem.  This technology not only enhances our efficiency but also ensures the safety of both the wildlife and your farm. By integrating these cutting-edge tools into our strategy, OSPM provides a service that is not just effective but also respectful of the environment and the natural habitats we work within.",
     },
     {
       img:
-        "https://images.unsplash.com/photo-1552960394-c81add8de6b8?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjR8fHdvcmtpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-      heading: "The Quick Brown Fox Jumped over the lazy dog.",
+        "https://i.imgur.com/5Bk1o46l.png",
+      heading: "The Art of Stealth in Predator Control.",
       para:
-        " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      " Stealth is an art form at OSPM, and it's crucial in our approach to predator control. As the shadows lengthen and the landscape transitions to twilight, our team employs tactics honed through years of experience. This expertise allows us to navigate various terrains silently, effectively managing predator threats without disruption to the local ecosystem.  Our strategic approach is designed to ensure minimal disturbance to both the wildlife and the farm environment. It's this delicate balance between assertive action and respectful management that defines our service, making OSPM a trusted name in predator control.",
     },
     {
       img:
