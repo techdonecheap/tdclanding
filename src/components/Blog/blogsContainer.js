@@ -49,24 +49,24 @@ const BlogsContainer = () => {
     },
     {
       img:
-        "https://images.unsplash.com/photo-1507209575474-fa61e9d3086b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Njd8fHdvcmtpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-      heading: "The Quick Brown Fox Jumped over the lazy dog.",
+        "https://i.imgur.com/GUNSqtDl.png",
+      heading: "Expert Tracking: The Key to Effective Predator Management.",
       para:
-        " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      " At OSPM, our expertise in tracking stands as a fundamental pillar of our predator management strategy. Understanding animal movement patterns is crucial in preemptively addressing potential threats. Our team, equipped with years of experience in wildlife tracking, applies this knowledge to ensure your farm's safety.  This skill set not only allows us to be efficient but also humane in our approach. By accurately identifying and understanding predator behavior, we can implement targeted removal strategies that minimize disruption to the ecosystem. It's this blend of expertise and respect for nature that defines OSPM's service excellence.",
     },
     {
       img:
-        "https://images.unsplash.com/photo-1488751045188-3c55bbf9a3fa?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjZ8fHdvcmtpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-      heading: "The Quick Brown Fox Jumped over the lazy dog.",
+        "https://i.imgur.com/nqqpTPZl.png",
+      heading: "Balancing Ecosystems: OSPM's Commitment to Environmental Stewardship.",
       para:
-        " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      " At OSPM, we understand that predator management is about more than just removal; it's about maintaining the balance of the ecosystem. Our approach to predator control is deeply rooted in environmental stewardship. We're committed to not only protecting your farms but also ensuring the health of the local wildlife populations.  Our methods are designed to address immediate concerns while considering long-term ecological impacts. This commitment to environmental balance makes OSPM a responsible choice for farmers and landowners who value both their property's safety and the natural world around them.",
     },
     {
       img:
-        "https://images.unsplash.com/photo-1542330952-bffc55e812b2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODV8fHdvcmtpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-      heading: "The Quick Brown Fox Jumped over the lazy dog.",
+        "https://i.imgur.com/TT6Iy5il.png",
+      heading: "Beyond Removal: OSPM's Comprehensive Wildlife Management Solutions.",
       para:
-        " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      " Predator management is just one aspect of the comprehensive wildlife solutions offered by OSPM. We believe in a holistic approach, addressing not just the immediate threats but also providing insights and strategies for long-term wildlife management.  Our services extend to habitat assessment, wildlife behavior education, and preventive measures to ensure sustainable coexistence with nature. By choosing OSPM, you're not just getting a predator removal service; you're investing in a partnership that values the safety and health of your entire agricultural ecosystem.",
     },
   ]
   return (
