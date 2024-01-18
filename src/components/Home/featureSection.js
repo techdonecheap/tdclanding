@@ -86,36 +86,27 @@ const FeatureSection = () => {
         <div className="mt-10 flex flex-row justify-space xxs:flex-col xs:flex-col sm:flex-row">
           <div className="w-1/3 bg-gradient-to-r from-pink to-purple p-8 rounded-xl m-5 xxs:w-full xs:w-full sm:w-1/3">
             <h1 className="text-white text-2xl">
-              Engineered for Swift Action in <br></br> mind
+              Engineered for Swift Action<br></br>
             </h1>
             <p className="mt-10 text-white opacity-50 text-sm">
-              We prioritize speed and efficiency in all our endeavors. 
-              Unlike the outdated norms of the industry, 
-              OSPM brings a modern approach to predator removal, 
-              ensuring rapid and effective results since our establishment in 2022..
+              At OSPM, speed and efficiency aren't just goals – they're realities. Our modern approach disrupts traditional predator removal methods, offering rapid and reliable solutions since 2022. Experience the difference with OSPM's swift and effective action
             </p>
           </div>
 
           <div className="w-1/3 bg-lightblack p-8 rounded-xl m-5 xxs:w-full xs:w-full sm:w-1/3">
             <h1 className="text-white text-2xl">
-              Work From <br></br>and location
+              Operational Excellence,<br></br>Any Location
             </h1>
             <p className="mt-10 text-white opacity-50 text-sm">
-              At OSPM, we have the flexibility to work from any environment. 
-              Our adaptability and commitment to excellence set us apart in 
-              the predator removal industry, ensuring efficient and effective 
-              operations since 2022.
+              Our expertise knows no bounds. OSPM operates effectively across diverse environments, reflecting our adaptability and dedication to excellence. Since 2022, we've set new standards in the predator removal industry, ensuring top-notch service wherever you are.
             </p>
           </div>
           <div className="w-1/3 bg-lightblack p-8 rounded-xl m-5 xxs:w-full xs:w-full sm:w-1/3">
             <h1 className="text-white text-2xl">
-              Seamless Communication  in<br></br>and Collaboration
+              Seamless Communication<br></br>and Collaboration
             </h1>
             <p className="mt-10 text-white opacity-50 text-sm">
-              Seamless Communication and Collaboration
-              At OSPM, we provide a unified tool for communication and information sharing. 
-              Our streamlined approach ensures efficient communication and coordination, 
-              making us the go-to choice for predator removal services
+              Efficient communication is key at OSPM. We've streamlined our processes to facilitate seamless collaboration and information sharing. Our approach simplifies coordination, solidifying OSPM as your preferred partner for comprehensive predator removal services.
             </p>
           </div>
         </div>
