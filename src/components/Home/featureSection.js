@@ -7,7 +7,7 @@ const FeatureSection = () => {
       <Fade bottom cascade>
         <div className="w-full flex flex-row justify-between mt-10 xxs:flex-col xs:flex-col sm:flex-row">
           <div className="rounded-xl w-full h-52 flex flex-col content-center justify-center align-middle text-center m-5 bg-gradient-to-r from-lightblack to-lightblack hover:from-purple hover:to-pink transition duration-500 ease-in-out">
-            <h1 className="text-white text-5xl">7K</h1>
+            <h1 className="text-white text-5xl">6.8K</h1>
             <h3 className="text-white">Acres Currently Monitored</h3>
           </div>
           <div className="rounded-xl w-full h-52 flex flex-col content-center justify-center align-middle text-center m-5 bg-gradient-to-r from-lightblack to-lightblack hover:from-purple hover:to-pink transition duration-500 ease-in-out">
@@ -31,7 +31,10 @@ const FeatureSection = () => {
             effective solutions
           </h1>
           <h2 className="text-white text-sm mt-5 opacity-50">
-            We provide practical services tailored to your needs. 
+    We provide practical services tailored to your needs.  At One Shot Predator Mgmt, we understand that every farm is different and has its own unique challenges and needs. That's why we don't offer a one-size-fits-all service, but rather a customized and tailored approach that suits your specific situation.
+    <br><br>We start by conducting a thorough assessment of your farm, identifying the types and levels of predators and nuisance animals that are causing you problems. We then design and implement a comprehensive and effective solution that targets and removes the unwanted animals, using the most humane and ethical methods possible.
+    <br><br>Our goal is to provide you with a long-term and sustainable solution that not only solves your current problem, but also prevents future ones. We also offer ongoing support and maintenance, ensuring that your farm remains safe and secure at all times.
+    <br><br>Whether you need to get rid of hogs, boars, bobcats, coyotes, or any other animal that threatens your farm, you can count on us to deliver the best results. Contact us today and let us help you with your predator removal needs. 
             <br></br>
             Our expertise has been trusted for years, ensuring your peace of mind
           </h2>
@@ -60,13 +63,7 @@ const FeatureSection = () => {
           <div className="w-4/6 bg-lightblack p-8 rounded-xl m-5 xxs:w-full xs:w-full sm:w-4/6">
             <h1 className="text-white text-4xl">Our Core Behaviours</h1>
             <p className="mt-10 text-white opacity-50">
-              At OSPM, founded in 2022 by two military veterans, we operate with an unwavering commitment to 
-              excellence and silence. With a 100% success rate, we provide discreet and effective predator removal 
-              services tailored to our clients' unique needs. Our precision, expertise, and dedication to continuous 
-              improvement set us apart. Confidentiality is paramount, and we handle our clients' concerns with the 
-              utmost professionalism. As community stewards, we give back responsibly while ensuring the safety and 
-              peace of mind of those we serve. OSPM - Your silent guardians, guaranteeing results and 
-              tranquility.".
+    Founded in 2022, One Shot Predator Management (OSPM) stands as a beacon of precision and effectiveness in wildlife control. Our team, comprising a military veteran and an experienced hunter, brings a unique blend of discipline, expertise, and passion to predator removal services. At OSPM, we pride ourselves on a flawless track record, offering discreet and efficient solutions to protect your farmlands from predators like hogs, boars, bobcats, and coyotes.<br><br>Our approach is tailored to each client, ensuring a perfect alignment with your specific needs. We understand the nuances of effective wildlife management and deploy strategies that guarantee results while maintaining the balance of the local ecosystem. Our commitment to silence and discretion is unwavering, safeguarding your privacy and peace of mind.<br><br>Professionalism and confidentiality are at the heart of everything we do. We handle each case with the utmost care, ensuring that our clients’ concerns are addressed with precision and empathy. As avid hunters and community stewards, we not only address the immediate challenge of predator removal but also contribute responsibly to community welfare.<br><br>Choose OSPM - Your Silent Guardians. We promise tranquility and safety for your farms, guaranteeing unmatched expertise in predator management.
             </p>
           </div>
         </div>

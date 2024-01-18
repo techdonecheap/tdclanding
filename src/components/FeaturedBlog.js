@@ -7,7 +7,7 @@ const FeaturedBlog = () => {
         A Couple Important Things <br></br>  That Set Us Apart ...
       </h1>
       <p className="text-white text-lg mt-5 opacity-50 w-3/4 xxs:w-full lg:w-3/4">
-        There are many companies that claim to offer predator removal services, but not all of them can deliver the quality and reliability that you deserve. At Predator Removal Company, we have a few important things that set us apart from the competition. Here are some of them:
+        There are many companies that claim to offer predator removal services, but not all of them can deliver the quality and reliability that you deserve. At One Shot Predator Mgmt, we have a few important things that set us apart from the competition. Here are some of them:
 
       </p>
       <div className="grid grid-cols-3 mt-10 gap-4 xxs:grid-cols-1 lg:grid-cols-3">
