@@ -6,7 +6,7 @@ const BlogHeader = () => {
     <Fade bottom>
       <div className="max-w-7xl mx-auto mt-10 flex text-white xxs:flex-col sm:flex-row">
         <div className="h-full object-cover overflow-hidden rounded-xl m-5">
-          <img src="https://images.unsplash.com/photo-1527689368864-3a821dbccc34?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80"></img>
+          <img src="https://i.imgur.com/UGjEabHl.jpg"></img>
         </div>
         <div className="m-5">
           <h2 className="text-sm opacity-50">Insights from the Field</h2>
@@ -20,11 +20,11 @@ const BlogHeader = () => {
             <div className="h-10 w-10 object-cover overflow-hidden rounded-full">
               <img
                 className="h-10 w-10"
-                src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+                src="https://i.imgur.com/BXHexwpl.png"
               ></img>
             </div>
             <div className="ml-2">
-              <h2>Christina Solerieu</h2>
+              <h2>OSPM Admin</h2>
               <h4 className="text-xs opacity-50">Jan 19, 2021</h4>
             </div>
           </div>
