@@ -7,10 +7,10 @@ const BlogsContainer = () => {
   const blogData = [
     {
       img:
-        "https://images.unsplash.com/photo-1498758536662-35b82cd15e29?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzN8fHdvcmtpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-      heading: "The Quick Brown Fox Jumped over the lazy dog.",
+        "https://i.imgur.com/TftDpeHl.png",
+      heading: "Efficiency in Predator Removal: Why Speed Matters.",
       para:
-        " Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+      " In the world of predator management, timing is everything. A swift response not only ensures immediate relief but also prevents potential disruptions to the delicate ecosystem of your farm. OSPM's commitment to rapid action is rooted in our understanding of the urgent nature of predator threats.  Our efficiency is a product of meticulous planning, expert skills, and a deep respect for both our clients and the wildlife we manage. By combining speed with precision, OSPM delivers solutions that are not just quick, but also effective and humane. This balance is what makes us leaders in predator management, providing peace of mind with every operation.,",
     },
     {
       img:

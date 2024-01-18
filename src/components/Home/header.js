@@ -12,13 +12,13 @@ const Header = () => {
       <Fade>
         <div>
           <h2 className="text-white font-poppins opacity-50 font-semibold mt-20 text-xs xxs:text-xs xs:text-xs sm:text-xs md:text-sm lg:text-xl">
-            Our expert solutions eliminate predators swiftly.
+            Swiftly Eliminating Predators with Expert Precision..
           </h2>
 
           <h1 className="text-white font-poppins font-semibold text-2xl xxs:text-2xl xs:text-2xl sm:text-lg md:text-2xl lg:text-4xl xl:text-7xl 2xl:text-8xl">
-            Effective action <br></br> a{" "}
+            Where Effective Action <br></br> a{" "}
             <span class="text-gradient bg-gradient-to-r from-pink to-purple">
-              starts here.
+              Meets Expertise..
             </span>
           </h1>
         </div>
