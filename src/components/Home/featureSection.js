@@ -63,7 +63,13 @@ const FeatureSection = () => {
           <div className="w-4/6 bg-lightblack p-8 rounded-xl m-5 xxs:w-full xs:w-full sm:w-4/6">
             <h1 className="text-white text-4xl">Our Core Behaviours</h1>
             <p className="mt-10 text-white opacity-50">
-    Founded in 2022, One Shot Predator Management (OSPM) stands as a beacon of precision and effectiveness in wildlife control. Our team, comprising a military veteran and an experienced hunter, brings a unique blend of discipline, expertise, and passion to predator removal services. At OSPM, we pride ourselves on a flawless track record, offering discreet and efficient solutions to protect your farmlands from predators like hogs, boars, bobcats, and coyotes.<br><br>Our approach is tailored to each client, ensuring a perfect alignment with your specific needs. We understand the nuances of effective wildlife management and deploy strategies that guarantee results while maintaining the balance of the local ecosystem. Our commitment to silence and discretion is unwavering, safeguarding your privacy and peace of mind.<br><br>Professionalism and confidentiality are at the heart of everything we do. We handle each case with the utmost care, ensuring that our clients’ concerns are addressed with precision and empathy. As avid hunters and community stewards, we not only address the immediate challenge of predator removal but also contribute responsibly to community welfare.<br><br>Choose OSPM - Your Silent Guardians. We promise tranquility and safety for your farms, guaranteeing unmatched expertise in predator management.
+              At OSPM, founded in 2022 by two military veterans, we operate with an unwavering commitment to 
+              excellence and silence. With a 100% success rate, we provide discreet and effective predator removal 
+              services tailored to our clients' unique needs. Our precision, expertise, and dedication to continuous 
+              improvement set us apart. Confidentiality is paramount, and we handle our clients' concerns with the 
+              utmost professionalism. As community stewards, we give back responsibly while ensuring the safety and 
+              peace of mind of those we serve. OSPM - Your silent guardians, guaranteeing results and 
+              tranquility.".
             </p>
           </div>
         </div>
