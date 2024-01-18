@@ -25,7 +25,7 @@ const BlogHeader = () => {
             </div>
             <div className="ml-2">
               <h2>OSPM Admin</h2>
-              <h4 className="text-xs opacity-50">Jan 19, 2021</h4>
+              <h4 className="text-xs opacity-50">Jan 18, 2024</h4>
             </div>
           </div>
         </div>
