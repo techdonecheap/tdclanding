@@ -62,9 +62,8 @@ const FeatureSection = () => {
             <p className="mt-10 text-white opacity-50">
               Founded in 2022, One Shot Predator Management (OSPM) stands as a beacon of precision and effectiveness in wildlife control. Our team, comprising a military veteran and an experienced hunter, brings a unique blend of discipline, expertise, and passion to predator removal services. At OSPM, we pride ourselves on a flawless track record, offering discreet and efficient solutions to protect your farmlands from predators like hogs, boars, bobcats, and coyotes.<br></br>  
               Our approach is tailored to each client, ensuring a perfect alignment with your specific needs. We understand the nuances of effective wildlife management and deploy strategies that guarantee results while maintaining the balance of the local ecosystem. Our commitment to silence and discretion is unwavering, safeguarding your privacy and peace of mind.<br></br>
-              Professionalism and confidentiality are at the heart of everything we do. We handle each case with the utmost care, ensuring that our clients’ concerns are addressed with precision and empathy. As avid hunters and community stewards, we not only address the immediate challenge of predator removal but also contribute responsibly to community welfare.
-      
-      Choose OSPM - Your Silent Guardians. We promise tranquility and safety for your farms, guaranteeing unmatched expertise in predator management..".
+              Professionalism and confidentiality are at the heart of everything we do. We handle each case with the utmost care, ensuring that our clients’ concerns are addressed with precision and empathy. As avid hunters and community stewards, we not only address the immediate challenge of predator removal but also contribute responsibly to community welfare.<br></br>
+              Choose OSPM - Your Silent Guardians. We promise tranquility and safety for your farms, guaranteeing unmatched expertise in predator management..".
             </p>
           </div>
         </div>
@@ -75,12 +74,9 @@ const FeatureSection = () => {
             Work more easily with everyone
           </h1>
           <h2 className="text-white text-sm mt-5 opacity-50">
-            In the realm of predator removal, silence is our standard. 
-            We pride ourselves on discreet and effective operations, 
-            leaving no room for errors. Our commitment to excellence 
-            speaks volumes, ensuring peace of mind for our clients. 
-            With a track record of 100% success, OSPM stands as
-            a symbol of unwavering dedication and precision in this industry.
+            At One Shot Predator Management (OSPM), we believe that effective predator removal hinges on silent, yet powerful collaboration. Our commitment to discretion is not just a promise, it's a standard we live by. In the sensitive field of wildlife control, we understand that silence and efficiency are key to not disrupting your daily operations. We work seamlessly with our clients, ensuring minimal interference with your routine while executing precise removal strategies.  
+            Our track record of 100% success isn't just a statistic—it's a testament to our dedication to excellence. We pride ourselves on delivering results that speak louder than words. Whether it's the stealthy removal of predators like coyotes or the careful handling of delicate situations, OSPM stands as a beacon of reliability and effectiveness in the predator management industry.
+            Choosing OSPM means opting for a service that works in harmony with your needs. We bring tranquility back to your farms and properties, ensuring you can work more easily with everyone - your staff, your animals, and your land. Trust in our expertise to provide peace of mind and a safer environment for all..
             <br></br>
           
           </h2>
