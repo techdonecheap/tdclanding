@@ -7,12 +7,12 @@ const CareersHeader = () => {
       <Fade bottom cascade>
         <div className="flex">
           <div className="w-2/4 m-2 text-white bg-lightblack p-8 rounded-xl">
-            <h2 className="text-sm opacity-50 font-semibold">Bullseye</h2>
+            <h2 className="text-sm opacity-50 font-semibold">Snarkle-Flarts</h2>
             <h1 className="text-5xl font-bold">
-              We havent finished this <br></br> yet, but we are close.
+              ill get to this <br></br> part eventually.
             </h1>
             <p className="mt-5 opacity-70">
-              There is just so much intresting things about these two sharpshooters, we needed extra time to draft their life credentials.
+              there is alot of context ineed to get from you guys to compelte the about page, pricing page, contact page, etc etc
             </p>
           </div>
           <div className="w-2/4 rounded-xl overflow-hidden m-2">
@@ -23,12 +23,12 @@ const CareersHeader = () => {
       <Fade bottom cascade>
         <div className="flex flex-row-reverse mt-10">
           <div className="w-2/5 m-2 text-white bg-lightblack p-8 rounded-xl">
-            <h2 className="text-sm opacity-50 font-semibold">Sharpshooter</h2>
+            <h2 className="text-sm opacity-50 font-semibold">Moose-knuckel</h2>
             <h1 className="text-5xl font-bold">
-              Make your rounds,  <br></br> Drop back by again later
-              </h1>
+              blah blah balh, yeah yeah yeah <br></br> we are cool.
+            </h1>
             <p className="mt-5 opacity-70">
-              and you will get to know our gunslingers.
+              sometime i think my peepee grows when im sleeping
             </p>
           </div>
           <div className="w-3/5 rounded-xl overflow-hidden m-2">
