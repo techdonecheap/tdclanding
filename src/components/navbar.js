@@ -35,12 +35,12 @@ const Navbar = () => {
                   className="text-white opacity-50 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-poppins"
                   to="/careers"
                 >
-                  Careers
-                </Link>
-                <Link
-                  className="text-white opacity-50 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-poppins"
-                  to="/contact"
-                >
+//                  Careers
+    //                </Link>
+    //            <Link
+   //              className="text-white opacity-50 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-poppins"
+    //              to="/contact"
+    //            >
                   Contact
                 </Link>
               </div>
