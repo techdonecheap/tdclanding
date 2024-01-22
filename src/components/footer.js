@@ -8,7 +8,7 @@ const Footer = () => {
         <div>
           <h1 className="text-white text-4xl text-bold">One Shot Predator Mgmt</h1>
           <p className="text-white text-sm mt-5 opacity-50">
-            we make 'full metal jacket' look like hallmark holiday movies.
+            We are the ones who go -creek- in the night.
           </p>
           <h1 className="text-white text-lg mt-20 ">
             © copyright{" "}
