@@ -10,31 +10,30 @@ const PricingMain = () => {
           <div className="flex w-9/12 bg-white h-auto rounded-xl">
             <div className="p-8 w-3/5">
               <h1 className="text-3xl font-bold">
-                The Oblitterate All package<br></br>products.
+                From rowdy ..<br></br> to repose.
               </h1>
               <p className="mt-5 text-sm opacity-50 font-semibold">
-                Full fuck shit up mode package, no need for questions, 
-                every fucking thing that has a heart beat.... wont.
+                All of those varmint's and critters may be causing trouble now....  that will soon change...
               </p>
               <div className="mt-5">
-                <h2 className="font-bold text-xl">What's Included</h2>
+                <h2 className="font-bold text-xl">We will have more packages later</h2>
                 <div className="mt-5 grid grid-cols-2 gap-3">
-                  <h3>Death</h3>
-                  <h3>Destruction</h3>
-                  <h3>Scorched Earth</h3>
-                  <h3>Naked Bodies</h3>
+                  <h3>Package 1</h3>
+                  <h3>Package 2</h3>
+                  <h3>Package 3</h3>
+                  <h3>Package 4</h3>
                 </div>
               </div>
             </div>
             <div className="flex flex-col items-center justify-center w-2/5 p-8 bg-pink rounded-r-lg">
               <h2 className="text-xl text-white text-bold">
-                All maintenance for one year
+                All pricing is
               </h2>
-              <h1 className="text-7xl text-white font-bold mt-2">$1,000,000</h1>
+              <h1 className="text-7xl text-white font-bold mt-2">TBD</h1>
               <div className="mt-5">
                 <Button
                   colorClass="bg-white"
-                  title="Request Destruction"
+                  title="Until a Consultation"
                   onClick={() => {}}
                 ></Button>
               </div>
