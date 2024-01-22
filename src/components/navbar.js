@@ -27,7 +27,7 @@ const Navbar = () => {
                 </Link>
                 <Link
                   className="text-white opacity-50 hover:opacity-100 px-3 py-2 rounded-md text-sm font-medium font-poppins"
-                  to="/comingsoon"
+                  to="/coming"
                 >
                   Coming Soon
                 </Link>
