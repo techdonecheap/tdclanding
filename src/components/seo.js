@@ -37,7 +37,7 @@ function Seo({ description, lang, meta, title }) {
       titleTemplate={defaultTitle ? `%s | ${defaultTitle}` : null}
       meta={[
         {
-          name: `description`,
+          name: `One Shot Predator Management | Handling all your varmint problems`,
           content: metaDescription,
         },
         {
