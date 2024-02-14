@@ -10,10 +10,10 @@ const PricingMain = () => {
           <div className="flex w-9/12 bg-white h-auto rounded-xl">
             <div className="p-8 w-3/5">
               <h1 className="text-3xl font-bold">
-                From rowdy ..<br></br> to repose.
+                From problems ..<br></br> to solutions.
               </h1>
               <p className="mt-5 text-sm opacity-50 font-semibold">
-                All of those varmint's and critters may be causing trouble now....  that will soon change...
+                Want an all access pass to our discord? Chat channels with other members and TDC's own Tech Predator, Alina Code, and cojovi for any situational issues they can help with.
               </p>
               <div className="mt-5">
                 <h2 className="font-bold text-xl">We will have more packages later</h2>

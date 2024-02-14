@@ -12,10 +12,10 @@ const Contact = () => {
           <div className="bg-lightblack p-10 rounded-xl w-3/4 m-5">
             <h2 className="text-xs opacity-50">Get in touch</h2>
             <h1 className="text-4xl font-bold font-poppins mt-2 xxs:text-lg sm:text-2xl lg:text-4xl">
-              Let's Connect
+              Lets Connect
             </h1>
             <p className="text-lg mt-2 opacity-50 w-3/4 xxs:text-xs xxs:w-full sm:text-sm sm:w-3/4">
-              Ready to safeguard your farm against predators? Reach out to us at OSPM. We're here to provide you with expert predator management solutions tailored to your specific needs. Our team is committed to delivering effective, discreet, and humane wildlife control, ensuring the safety and tranquility of your property. Contact us today to discuss how we can assist you in protecting your land and livestock. At OSPM, your peace of mind is our top priority.
+              TechDoneCheap is your go-to source for affordable tech solutions. Our team of experts specializes in delivering high-quality tech services designed to meet the needs of businesses and individuals alike, without breaking the bank.
             </p>
             <form className="mt-5">
               <div className="flex xxs:flex-col sm:flex-row">
@@ -50,7 +50,7 @@ const Contact = () => {
           <div className="w-1/4 overflow-hidden rounded-xl m-5 xxs:hidden sm:block">
             <img
               className="object-cover h-full w-full"
-              src="https://i.imgur.com/BXHexwpl.png"
+              src="https://i.imgur.com/J9BpRpx.gif"
             ></img>
           </div>
         </div>

@@ -4,41 +4,41 @@ const FeaturedBlog = () => {
   return (
     <div className="max-w-7xl mx-auto px-8 mt-10">
       <h1 className="text-white font-poppins font-bold text-6xl xxs:text-lg xs:text-xl sm:text-xl lg:text-6xl">
-        A Couple Important Things <br></br>  That Set Us Apart ...
+        CojoviDigital a symphony of web development <br></br>  Marketing mastery and ai integration ...
       </h1>
       <p className="text-white text-lg mt-5 opacity-50 w-3/4 xxs:w-full lg:w-3/4">
-        There are many companies that claim to offer predator removal services, but not all of them can deliver the quality and reliability that you deserve. At One Shot Predator Mgmt, we have a few important things that set us apart from the competition. Here are some of them:
+        In the digital age, where the internet is more crowded than a New York subway at rush hour, finding a company that not only navigates this complexity but thrives in it, is like finding a needle in a haystack:
 
       </p>
       <div className="grid grid-cols-3 mt-10 gap-4 xxs:grid-cols-1 lg:grid-cols-3">
         <div className="rounded-xl overflow-hidden opacity-70 relative hover:opacity-100">
           <img
             className="relative"
-            alt="Silent Night"
-            src="https://i.imgur.com/g4Aeb0q.jpg"
+            alt="marketing mastery"
+            src="https://i.imgur.com/jrmqVah.jpg"
           ></img>
           <div class="opacity-0 hover:opacity-100 duration-300 absolute inset-0 z-10 text-3xl text-white font-bold p-2">
-            Working at Night and in Silence to Protect Your Farm.
+            Unlocking Web Success: The Power of SEO Optimization in 2024.
           </div>
         </div>
         <div className="rounded-xl overflow-hidden opacity-70 relative hover:opacity-100">
           <img
             className="relative"
             alt="Jobs Get Done"
-            src="https://i.imgur.com/BxZxOUl.jpg"
+            src="https://i.imgur.com/SMsCh6t.png"
           ></img>
           <div class="opacity-0 hover:opacity-100 duration-300 absolute inset-0 z-10 text-3xl text-white font-bold p-2">
-            We efficiently eraticate the problem or problems.
+            In the dynamic digital landscape of 2024, SEO remains a cornerstone for driving website traffic and generating leads for businesses. With over 68% of online experiences starting with a search engine, mastering SEO is more vital than ever.
           </div>
         </div>
         <div className="rounded-xl overflow-hidden opacity-70 relative hover:opacity-100">
           <img
             className="relative"
             alt="blog"
-            src="https://i.imgur.com/wlyvIrM.jpg"
+            src="https://i.imgur.com/6T70Vsa.jpg"
           ></img>
           <div class="opacity-0 hover:opacity-100 duration-300 absolute inset-0 z-10 text-3xl text-white font-bold p-2">
-            Safety and Efficiency is our top priorities.
+            Deployment Platforms The Good, The Bad, and the Techie.
           </div>
         </div>
       </div>
