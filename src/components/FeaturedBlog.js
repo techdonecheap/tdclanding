@@ -16,7 +16,7 @@ const FeaturedBlog = () => {
             className="relative"
             alt="marketing mastery"
             src="https://i.imgur.com/jrmqVah.jpg"
-          ><a href="https://www.techdonecheap.com" className="hover:opacity-100"></a> </img>
+          ></img>
           <div class="opacity-0 hover:opacity-100 duration-300 absolute inset-0 z-10 text-3xl text-white font-bold p-2">
             Unlocking Web Success: The Power of SEO Optimization in 2024.
           </div>
