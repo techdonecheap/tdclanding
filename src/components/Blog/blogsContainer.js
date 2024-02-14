@@ -45,7 +45,7 @@ const BlogsContainer = () => {
         "https://www.japantimes.co.jp/uploads/imported_images/uploads/2023/03/np_file_215776.jpeg",
       heading: "Unveiling ChatGPTs My GPTs Personalization at Its Finest!",
       para:
-      " A Revolution in Conversational AI, Hello, dear readers! Today, we're diving into the exciting world of AI personalization with ChatGPT's latest feature: "My GPTs." This innovative tool is changing the game in how we interact with AI, offering a level of customization that's as unique as your favorite coffee order - extra shots, anyone?.",
+      " A Revolution in Conversational AI, Hello, dear readers! Today, we're diving into the exciting world of AI personalization with ChatGPT's latest feature: My GPTs. This innovative tool is changing the game in how we interact with AI, offering a level of customization that's as unique as your favorite coffee order - extra shots, anyone?.",
     },
     {
       img:
