@@ -7,52 +7,52 @@ const BlogsContainer = () => {
   const blogData = [
     {
       img:
-        "https://i.imgur.com/TftDpeHl.png",
-      heading: "Efficiency in Predator Removal: Why Speed Matters.",
+        "https://i.imgur.com/SMsCh6t.png",
+      heading: "IllaBuilder: A Whirlwind Romance with AI Application Development.",
       para:
-      " In the world of predator management, timing is everything. A swift response not only ensures immediate relief but also prevents potential disruptions to the delicate ecosystem of your farm. OSPM's commitment to rapid action is rooted in our understanding of the urgent nature of predator threats.  Our efficiency is a product of meticulous planning, expert skills, and a deep respect for both our clients and the wildlife we manage. By combining speed with precision, OSPM delivers solutions that are not just quick, but also effective and humane. This balance is what makes us leaders in predator management, providing peace of mind with every operation.,",
+      " In the neon-lit, cyberpunk future we all pretended to live in during our childhood, IllaBuilder stands out not just as a platform but as the Gandalf of AI development—ushering in the age where creating AI-driven applications is as easy as pie. Scratch that, easier than pie (have you ever actually tried to make pie?). This open-source, low-code marvel is here to turn your drag-and-drop fantasies into reality, making the dark art of AI as accessible as your local coffee shop's Wi-Fi.,",
     },
     {
       img:
-        "https://i.imgur.com/9c2MRAul.png",
-      heading: "Adapting to Every Challenge Nature Offers.",
+        "https://i.imgur.com/xFFB1e5.png",
+      heading: "CojoviDigital A Symphony of Web Development, Marketing Mastery, and AI.",
       para:
-      " Nature's unpredictability requires a predator management service that's as adaptable as the wildlife it handles. At OSPM, we pride ourselves on our ability to navigate and operate effectively in any environment – be it dense woodlands, rolling hills, or open fields. Our adaptability is not just a skill; it's our promise to protect your land, no matter its terrain. Our team's deep understanding of animal behavior, coupled with state-of-the-art technology, enables us to provide tailored solutions for every situation. Whether it's a cunning coyote or a stealthy bobcat, OSPM is equipped to handle the challenge, ensuring the safety of your farm and maintaining the natural balance.",
+      " In the digital age, where the internet is more crowded than a New York subway at rush hour, finding a company that not only navigates this complexity but thrives in it, is like finding a needle in a haystack. Enter CojoviDigital, the digital maestro conducting an orchestra of web development, marketing expertise, coding wizardry, and AI integrations with the finesse of a seasoned virtuoso. This isn't just a business review; it's an ode to the brilliance that is CojoviDigital. Let's dive deep into why this company isn't just another player in the digital field, but the very conductor of the symphony.",
     },
     {
       img:
-        "https://i.imgur.com/jcbic7Ol.png",
-      heading: "The Silent Guardians of Your Farm.",
+        "https://i.imgur.com/6T70Vsa.jpg",
+      heading: "Deployment Platforms The Good, The Bad, and the Techie.",
       para:
-      " In the stillness of dusk, when shadows grow long and the farm settles for the night, our team at OSPM takes action. We are the silent guardians, ensuring that the peace of your fields and the safety of your livestock are undisturbed. Our approach to predator management is not just about removal; it's about restoring balance and tranquility to your land.  OSPM's unique blend of military precision and hunting expertise makes us unparalleled in the field of predator control. With every mission, we bring a commitment to discretion and efficiency, ensuring that your farm remains a safe haven for its rightful inhabitants. Trust in OSPM to be your silent, vigilant protectors.",
+      " Hey there, fellow tech enthusiasts! Today, we're diving deep into the world of deployment platforms. We've got four heavy hitters in our lineup: Vercel.app, Netlify, Digital Ocean, and Heroku. Let's break them down, weigh their pros and cons, and figure out which one could be the champion of your deployment needs.",
     },
     {
       img:
-        "https://i.imgur.com/5dRCCHql.png",
-      heading: "Dawn of Safety: OSPM's Early Morning Vigilance.",
+        "https://i.imgur.com/WtCAE4m.jpg",
+      heading: "The Rabbit R1 AI Gadget A Deep Dive into 2024's Exciting Technological Leap.",
       para:
-      " As the first light of dawn breaks over the horizon, OSPM's team is already at work, ensuring that your farm awakens to safety and serenity. Our early morning patrols are a cornerstone of our commitment to protecting your livelihood. In these quiet hours, our vigilance is heightened, preempting any threats that nocturnal predators might pose.  This proactive approach is what sets OSPM apart. We believe in not just responding to threats, but in preventing them. As the farm stirs to life, our clients can rest assured that their fields and livestock have been guarded throughout the night, ensuring a peaceful start to the day.",
+      " Welcome to today's blog where we're diving into the world of the Rabbit R1, the latest AI-powered gadget that's been making waves in the tech world. From its unique design to its innovative features,  the Rabbit R1 seems poised to redefine our interactions with technology. Let's hop right in.",
     },
     {
       img:
-        "https://i.imgur.com/8wZLW4Vl.png",
-      heading: "Innovative Technology in Predator Management.",
+        "https://techdonecheap.files.wordpress.com/2023/04/img_1101.jpg",
+      heading: "3D Print : StormBreaker.",
       para:
-      " At OSPM, we harness the power of technology to stay ahead in predator management. Our use of advanced tools, like high-tech drones, exemplifies our innovative approach. These drones enable us to survey large areas of land quickly and efficiently, identifying potential predator threats before they become a problem.  This technology not only enhances our efficiency but also ensures the safety of both the wildlife and your farm. By integrating these cutting-edge tools into our strategy, OSPM provides a service that is not just effective but also respectful of the environment and the natural habitats we work within.",
+      " The Adventures of Thor: Losing Mjölnir and Gaining Stormbreaker, Once upon a time, in the land of Asgard, Thor was the proud owner of the mighty hammer Mjölnir. But, as fate would have it, Thor's evil brother Loki had other plans for the powerful weapon.",
     },
     {
       img:
-        "https://i.imgur.com/5Bk1o46l.png",
-      heading: "The Art of Stealth in Predator Control.",
+        "https://www.japantimes.co.jp/uploads/imported_images/uploads/2023/03/np_file_215776.jpeg",
+      heading: "Unveiling ChatGPTs My GPTs Personalization at Its Finest!",
       para:
-      " Stealth is an art form at OSPM, and it's crucial in our approach to predator control. As the shadows lengthen and the landscape transitions to twilight, our team employs tactics honed through years of experience. This expertise allows us to navigate various terrains silently, effectively managing predator threats without disruption to the local ecosystem.  Our strategic approach is designed to ensure minimal disturbance to both the wildlife and the farm environment. It's this delicate balance between assertive action and respectful management that defines our service, making OSPM a trusted name in predator control.",
+      " A Revolution in Conversational AI, Hello, dear readers! Today, we're diving into the exciting world of AI personalization with ChatGPT's latest feature: "My GPTs." This innovative tool is changing the game in how we interact with AI, offering a level of customization that's as unique as your favorite coffee order - extra shots, anyone?.",
     },
     {
       img:
-        "https://i.imgur.com/GUNSqtDl.png",
-      heading: "Expert Tracking: The Key to Effective Predator Management.",
+        "https://techdonecheap.files.wordpress.com/2023/04/ce9e9-banner.jpg",
+      heading: "Dont be fooled by fake accounts, How to Find out if who your messaging is real or not!",
       para:
-      " At OSPM, our expertise in tracking stands as a fundamental pillar of our predator management strategy. Understanding animal movement patterns is crucial in preemptively addressing potential threats. Our team, equipped with years of experience in wildlife tracking, applies this knowledge to ensure your farm's safety.  This skill set not only allows us to be efficient but also humane in our approach. By accurately identifying and understanding predator behavior, we can implement targeted removal strategies that minimize disruption to the ecosystem. It's this blend of expertise and respect for nature that defines OSPM's service excellence.",
+      " So this lil story has a little backing to it.  This woman started texting me on Facebook messenger, of course first thing I did was check her profile.  SHOCKER, she didnt have a Facebook profile she just had messenger.  Of course I asked her about it and there were the excuses, blah blah.  At this particular time in my timeline, I was in florida working, and I was out there alone, so having somebody to bullshit with wasn’t a bad thing.  I was sure the person was fake, but didnt really pry.",
     },
     {
       img:
