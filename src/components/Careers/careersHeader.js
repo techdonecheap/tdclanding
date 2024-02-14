@@ -7,32 +7,32 @@ const CareersHeader = () => {
       <Fade bottom cascade>
         <div className="flex">
           <div className="w-2/4 m-2 text-white bg-lightblack p-8 rounded-xl">
-            <h2 className="text-sm opacity-50 font-semibold">Bullseye</h2>
+            <h2 className="text-sm opacity-50 font-semibold">TechDoneCheap.com</h2>
             <h1 className="text-5xl font-bold">
-              We havent finished this <br></br> yet, but we are close.
+              Our tech blog to get all <br></br> jobs done on whatever budget.
             </h1>
             <p className="mt-5 opacity-70">
-              There is just so much intresting things about these two sharpshooters, we needed extra time to draft their life credentials.
+              Our tech blog is dedicated to tackling technology projects on any budget, focusing on innovative DIY solutions that repurpose and recycle electronics. We delve into the world of gadgets, dissecting them to understand their core components and explore how peripherals from various devices can be reused in creative ways. Our mission is to ensure that no piece of electronics goes to waste, demonstrating through our guides and tutorials how anyone can make the most out of their tech, regardless of financial constraints..
             </p>
           </div>
           <div className="w-2/4 rounded-xl overflow-hidden m-2">
-            <img src="https://i.imgur.com/fE6ktC2.jpg"></img>
+            <img src="https://i.imgur.com/weBH830.png"></img>
           </div>
         </div>
       </Fade>
       <Fade bottom cascade>
         <div className="flex flex-row-reverse mt-10">
           <div className="w-2/5 m-2 text-white bg-lightblack p-8 rounded-xl">
-            <h2 className="text-sm opacity-50 font-semibold">Sharpshooter</h2>
+            <h2 className="text-sm opacity-50 font-semibold">StargazerProject.xyz</h2>
             <h1 className="text-5xl font-bold">
-              Make your rounds,  <br></br> Drop back by again later
+              Another source for,  <br></br> Coding, Programming and conspiracy theories
               </h1>
             <p className="mt-5 opacity-70">
-              and you will get to know our gunslingers.
+              this is moreso for the fun and entertainment aspects of the internet, but this is a safe place for all topics. doesnt matter if its political, conspiracy, or whatever, we talk and converse about all sorts of things.
             </p>
           </div>
           <div className="w-3/5 rounded-xl overflow-hidden m-2">
-            <img src="https://i.imgur.com/13Xiz2u.jpg"></img>
+            <img src="https://i.imgur.com/sKaWvIE.png"></img>
           </div>
         </div>
       </Fade>
