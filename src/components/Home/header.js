@@ -4,7 +4,7 @@ import Button from "../Atoms/button"
 import Fade from "react-reveal/Fade"
 
 // Assets
-import HeaderImage from "../../images/header-main.jpg"
+import HeaderImage from "../../images/header-main.png"
 
 const Header = () => {
   return (

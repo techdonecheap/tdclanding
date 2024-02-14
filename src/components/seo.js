@@ -37,20 +37,20 @@ function Seo({ description, lang, meta, title }) {
       titleTemplate={defaultTitle ? `%s | ${defaultTitle}` : null}
       meta={[
         {
-          name: `One Shot Predator Management | Handling all your varmint problems`,
-          content: metaDescription,
+          name: "description",
+          content: "TechDoneCheap offers affordable tech solutions including web development, digital marketing, IT consulting, and tech support to empower businesses and individuals digitally.",
         },
         {
-          property: `og:title`,
-          content: title,
+          property: "og:title",
+          content: "Explore Affordable Tech Solutions | TechDoneCheap",
         },
         {
-          property: `og:description`,
-          content: metaDescription,
+          property: "og:description",
+          content: "Discover how TechDoneCheap brings technology within reach through affordable services tailored to your business and personal needs.",
         },
         {
-          property: `og:type`,
-          content: `website`,
+          property: "og:type",
+          content: "www.techdonecheap.com",
         },
         {
           name: `twitter:card`,

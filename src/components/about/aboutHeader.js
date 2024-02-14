@@ -6,7 +6,7 @@ const AboutHeader = () => {
     <Fade bottom cascade>
       <div className="max-w-7xl mx-auto mt-10">
         <div className="overflow-hidden rounded-xl">
-          <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2851&q=80"></img>
+          <img src="https://i.imgur.com/6T70Vsa.jpg"></img>
         </div>
         <div className="mt-5">
           <span className="text-white text-sm opacity-50">About us</span>
