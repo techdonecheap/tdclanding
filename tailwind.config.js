@@ -1,4 +1,4 @@
-const colors = require("tailwindcss/colors")
+const colors = require("tailwindcss/colors");
 
 module.exports = {
   purge: ["./src/**/*.{js,jsx,ts,tsx}"],
@@ -8,8 +8,13 @@ module.exports = {
       fontFamily: {
         poppins: ["poppins", "sans-serif"],
       },
-    },
-    colors: {
+      colors: {
+        // Adding custom colors
+        'custom-blue': '#24c6dc', // Custom color name and value
+        'custom-purple': '#5433ff', // Custom color name and value
+        'custom-pink': '#ff0099', // Custom color name and value
+      },
+      // Existing colors
       black: colors.black,
       purple: "#a18cd1",
       pink: "#FBC2EB",
@@ -22,19 +27,10 @@ module.exports = {
       xxs: "320px",
       xs: "425px",
       sm: "640px",
-      // => @media (min-width: 640px) { ... }
-
       md: "768px",
-      // => @media (min-width: 768px) { ... }
-
       lg: "1024px",
-      // => @media (min-width: 1024px) { ... }
-
       xl: "1280px",
-      // => @media (min-width: 1280px) { ... }
-
       "2xl": "1536px",
-      // => @media (min-width: 1536px) { ... }
     },
   },
   variants: {
