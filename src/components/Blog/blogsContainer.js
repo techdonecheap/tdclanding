@@ -56,17 +56,17 @@ const BlogsContainer = () => {
     },
     {
       img:
-        "https://i.imgur.com/nqqpTPZl.png",
-      heading: "Balancing Ecosystems: OSPM's Commitment to Environmental Stewardship.",
+        "https://i.imgur.com/f2F9ahX.png",
+      heading: "Fanttik E1 Pro 3.7V Mini Electric Screwdriver - The Ultimate Tool for DIY Enthusiasts.",
       para:
-      " At OSPM, we understand that predator management is about more than just removal; it's about maintaining the balance of the ecosystem. Our approach to predator control is deeply rooted in environmental stewardship. We're committed to not only protecting your farms but also ensuring the health of the local wildlife populations.  Our methods are designed to address immediate concerns while considering long-term ecological impacts. This commitment to environmental balance makes OSPM a responsible choice for farmers and landowners who value both their property's safety and the natural world around them.",
+      " Do you ever find yourself fumbling with a manual screwdriver, wishing for a more efficient, powerful, and user-friendly option? Well, your DIY dreams are about to come true with the **Fanttik E1 Pro 3.7V Mini Electric Screwdriver**. This compact powerhouse is a game-changer for anyone who loves to tinker, repair, or create. And guess what? You can grab this must-have tool right now through [this special link](https://amzn.to/3TkmspR) - and yes, it's an affiliate link, so you'll be supporting me while upgrading your toolkit. Win-win!.",
     },
     {
       img:
-        "https://i.imgur.com/TT6Iy5il.png",
-      heading: "Beyond Removal: OSPM's Comprehensive Wildlife Management Solutions.",
+        "https://techdonecheap.files.wordpress.com/2023/04/kali-aircr.jpg",
+      heading: "Hacking/Penetrating Wi-Fi networks, Kali Linux &#038; Aircrack-ng.",
       para:
-      " Predator management is just one aspect of the comprehensive wildlife solutions offered by OSPM. We believe in a holistic approach, addressing not just the immediate threats but also providing insights and strategies for long-term wildlife management.  Our services extend to habitat assessment, wildlife behavior education, and preventive measures to ensure sustainable coexistence with nature. By choosing OSPM, you're not just getting a predator removal service; you're investing in a partnership that values the safety and health of your entire agricultural ecosystem.",
+      " This guide will show you how to crack [pre-shared key](https://techofide.com/blogs/how-to-use-aircrack-ng-aircrack-ng-tutorial-practical-demonstration/#psk) [WPA/WPA2](https://techofide.com/blogs/how-to-use-aircrack-ng-aircrack-ng-tutorial-practical-demonstration/#wepwap) networks using the Aircrack-ng tool, which is used to crack wifi passwords. We are going to discuss what are pre-shared keys, what is packet injection, then we will verify if your Network Interface Card (NIC) supports packet injection. Then we will go ahead and crack the WAP/WAP2 wireless network.",
     },
   ]
   return (
