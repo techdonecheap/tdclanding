@@ -16,7 +16,7 @@ const FeaturedBlog = () => {
             className="relative"
             alt="marketing mastery"
             src="https://i.imgur.com/jrmqVah.jpg"
-          ></img>
+          ><a href="https://www.techdonecheap.com" className="hover:opacity-100"></a> </img>
           <div class="opacity-0 hover:opacity-100 duration-300 absolute inset-0 z-10 text-3xl text-white font-bold p-2">
             Unlocking Web Success: The Power of SEO Optimization in 2024.
           </div>
@@ -28,7 +28,7 @@ const FeaturedBlog = () => {
             src="https://i.imgur.com/SMsCh6t.png"
           ></img>
           <div class="opacity-0 hover:opacity-100 duration-300 absolute inset-0 z-10 text-3xl text-white font-bold p-2">
-            In the dynamic digital landscape of 2024, SEO remains a cornerstone for driving website traffic and generating leads for businesses. With over 68% of online experiences starting with a search engine, mastering SEO is more vital than ever.
+            In the dynamic digital landscape of 2024, SEO remains a cornerstone for driving website traffic and generating leads for businesses.
           </div>
         </div>
         <div className="rounded-xl overflow-hidden opacity-70 relative hover:opacity-100">
